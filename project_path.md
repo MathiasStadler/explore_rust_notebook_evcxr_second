@@ -52,4 +52,13 @@ cargo add csv
 
 ```
 
-## change
+## add stock data
+
+```bash
+# change to project folder
+mkdir stock_data
+# inside a browser
+# https://stooq.com/q/d/l/?s=TREX.US&i=d&d1=19900101&d2=20241231
+
+
+```
