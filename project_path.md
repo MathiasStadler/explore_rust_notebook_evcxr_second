@@ -45,6 +45,9 @@ cargo build
 ```bash
 # cargo add evcxr
 cargo install evcxr_jupyter
+evcxr_jupyter --install
+# reload the vscode ide complete
+
 cargo add csv
 
 ```
