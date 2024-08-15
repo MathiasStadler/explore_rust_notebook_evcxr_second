@@ -40,8 +40,11 @@ cargo build
 
 ## add crates
 
+[evcxr_jupyter](https://github.com/evcxr/evcxr/blob/main/evcxr_jupyter/README.md)
+
 ```bash
-cargo add evcxr
+# cargo add evcxr
+cargo install evcxr_jupyter
 cargo add csv
 
 ```
